@@ -49,6 +49,7 @@ span.ico {
   font-size: 40px;
   background: var(--wh);
   color: var(--pr);
+  z-index: 1000;
 }
 
 /* container */
