@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'opensans-bold';
+    src: url(../fonts/opensans-bold.woff);
+}
+
+@font-face {
+    font-family: 'opensans';
+    src: url(../fonts/opensans.woff);
+}
+
+@font-face {
+    font-family: 'material-icons';
+    src: url(../fonts/material-icons.ttf);
+}
+
+@font-face {
+    font-family: 'iran_yekan';
+    src: url(../fonts/iran_yekan.ttf);
+}
