@@ -46,7 +46,7 @@ span.ico {
   height: 100%;
   display: grid;
   place-items: center;
-  font-size: 40px;
+  font-size: 50px;
   background: var(--wh);
   color: var(--pr);
   z-index: 1000;
