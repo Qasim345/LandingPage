@@ -1,9 +1,9 @@
-$(window).on("load",()=>{
+window.onload = ()=>{
   setTimeout(()=> {
     $(".loader").hide();
-    $("head").append(`<meta name="theme-color" content="#1876f3">`)
+    $("head").append(`<meta name="theme-color" content="#1876f3">`);
   }, 1000);
-});
+};
 // change mode
 var f = 0;
 $("#mode").click(function() {
