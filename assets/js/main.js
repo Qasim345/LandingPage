@@ -1,3 +1,8 @@
+$(window).on("load",()=>{
+  setTimeout(()=> {
+    $(".loader").hide()
+  }, 1000);
+});
 // change mode
 var f = 0;
 $("#mode").click(function() {
